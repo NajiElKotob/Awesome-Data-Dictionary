@@ -8,7 +8,8 @@
 
 -----
 ## Data
-* Agentic analytics 
+* Agentic analytics
+* Augmented Analytics
 * Data is fact.
   * [No Matter How You Say It, I’m Thankful for Data](https://businessoverbroadway.com/2015/11/25/no-matter-how-you-say-it-im-thankful-for-data/) - businessoverbroadway.com
   * [Data vs. Information - Differences in Meaning](https://www.diffen.com/difference/Data_vs_Information) - diffen.com
